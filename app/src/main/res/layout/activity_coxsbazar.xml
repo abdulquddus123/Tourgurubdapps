@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    tools:context="areyen.tourgurubdapps.Coxsbazar">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textAlignment="center"
+        android:layout_marginTop="30dp"
+        android:textSize="40dp"
+        android:text="কক্সবাজার"
+        />
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_margin="30dp"
+        android:layout_height="wrap_content"
+        android:text="কক্সবাজার বাংলাদেশের দক্ষিণ-পূর্বাঞ্চলে অবস্হিত একটি পর্যটন শহর। এটি চট্টগ্রাম বিভাগের কক্সবাজার জেলার অন্তর্গত। কক্সবাজার তার নৈসর্গিক সৌন্দর্য্যের জন্য বিখ্যাত। এখানে রয়েছে বিশ্বের দীর্ঘতম অবিচ্ছিন্ন প্রাকৃতিক বালুময় সমুদ্র সৈকত যা কক্সবাজার শহর থেকে বদরমোকাম পর্যন্ত একটানা ১৫৫ কিলোমিটার (৯৬ মাইল) পর্যন্ত বিস্তৃত। এখানে রয়েছে বাংলাদেশের বৃহত্তম সামুদ্রিক মৎস্য বন্দর এবং সাবমেরিন ক্যাবল ল্যান্ডিং স্টেশান। একসময় কক্সবাজার পানোয়া নামেও পরিচিত ছিল যার আক্ষরিক অর্থ হচ্ছে হলুদ ফুল। এর আরো একটি প্রাচীন নাম হচ্ছে পালঙ্কি।
+."/>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>

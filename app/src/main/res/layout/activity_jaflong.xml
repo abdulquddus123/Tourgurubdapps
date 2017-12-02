@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="areyen.tourgurubdapps.Jaflong">
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="জাফলং "
+            android:layout_marginTop="30dp"
+            android:textAlignment="center"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_margin="20dp"
+            android:layout_height="wrap_content"
+            android:text="বাংলাদেশের সিলেটের সীমান্তবর্তি এলাকায় জাফলং অবস্থিত। এর অপর পাশে ভারতের ডাওকি অঞ্চল। ডাওকি অঞ্চলের পাহাড় থেকে ডাওকি নদী এই জাফলং দিয়ে বাংলাদেশে প্রবেশ করেছে। মূলত পিয়াইন নদীর অববাহিকায় জাফলং অবস্থিত। সিলেট জেলার জাফলং-তামাবিল-লালখান অঞ্চলে রয়েছে পাহাড়ী উত্তলভঙ্গ। এই উত্তলভঙ্গে পাললিক শিলা প্রকটিত হয়ে আছে, তাই ওখানে বেশ কয়েকবার ভূতাত্ত্বিক জরিপ পরিচালনা করা হয়েছে বাংলাদেশের পক্ষ থেকে। জাফলং-এর বাংলাদেশ সীমান্তে দাঁড়ালে ভারত সীমান্ত-অভ্যন্তরে থাকা উঁচু উঁচু পাহাড়শ্রেণী দেখা যায়। এসব পাহাড় থেকে নেমে আসা ঝরণা পর্যটকদের অন্যতম আকর্ষণ। এছাড়া ভারতের ডাউকি বন্দরের ঝুলন্ত সেতুও আকর্ষণ করে অনেককে  এছাড়া সর্পিলাকারে বয়ে চলা ডাওকি নদীও টানে পর্যটকদের। মৌসুমী বায়ুপ্রবাহের ফলে ভারত সীমান্তে প্রবল বৃষ্টিপাত হওয়ায় নদীর স্রোত বেড়ে গেলে নদী ফিরে পায় তার প্রাণ, আর হয়ে ওঠে আরো মনোরম। ডাওকি নদীর পানির স্বচ্ছতাও জাফলং-এর অন্যতম আকর্ষণ। পহেলা বৈশাখে বাংলা নববর্ষকে ঘিরে জাফলং-এ আয়োজন করা হয় বৈশাখী মেলা এই মেলাকে ঘিরে উৎসবে মুখরিত হয়ে উঠে পুরো এলাকা। বর্ষাকাল আর শীতকালে জাফলং-এর আলাদা আলাদা সৌন্দর্য ফুটে ওঠে। বর্ষাকালে বৃষ্টিস্নাত গাছগাছালি আর খরস্রোতা নদী হয় দেখার মতো। তাছাড়া পাহাড়ের মাথায় মেঘের দৃশ্যও যথেষ্ট মনোরম।"/>
+
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

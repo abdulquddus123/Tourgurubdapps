@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="areyen.tourgurubdapps.Sentmartin">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:textSize="30sp"
+            android:text="সেন্ট মার্টিন্‌স দ্বীপ "
+            android:layout_marginTop="30dp"
+            android:textAlignment="center"
+            android:textStyle="bold"/>
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_margin="29dp"
+            android:text="বাংলাদেশের সর্ব দক্ষিণে বঙ্গোপসাগরের উত্তর-পূর্বাংশে অবস্থিত একটি প্রবাল দ্বীপ। এটি কক্সবাজার জেলার টেকনাফ হতে প্রায় ৯ কিলোমিটার দক্ষিণে এবং মায়ানমার-এর উপকূল হতে ৮ কিলোমিটার পশ্চিমে নাফ নদীর মোহনায় অবস্থিত। প্রচুর নারিকেল পাওয়া যায় বলে স্থানীয়ভাবে একে নারিকেল জিঞ্জিরাও বলা হয়ে থাকে। দ্বীপটি একটি জনপ্রিয় পর্যটন কেন্দ্র। পর্যটন মৌসুমে এখানে প্রতিদিন ৫টি লঞ্চ বাংলাদেশের মূল ভূখন্ড হতে আসা যাওয়া করে। সেন্ট মার্টিন্স দ্বীপে বর্তমানে বেশ কয়েকটি ভালো আবাসিক হোটেল রয়েছে। একটি সরকারি ডাকবাংলো আছে। সেন্ট মার্টিন্স দ্বীপের আইন-শৃঙ্খলা পরিস্থিতি ভাল।
+"
+            />
+
+    </LinearLayout>
+
+</android.support.constraint.ConstraintLayout>

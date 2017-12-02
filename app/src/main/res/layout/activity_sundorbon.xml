@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    tools:context="areyen.tourgurubdapps.Sundorbon">
+
+<LinearLayout
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical">
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:textSize="30sp"
+        android:text="সুন্দরবন "
+        android:layout_marginTop="30dp"
+        android:textAlignment="center"
+        android:textStyle="bold"/>
+    <TextView
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:layout_margin="20dp"
+        android:text="সুন্দরবন হলো বঙ্গোপসাগর উপকূলবর্তী অঞ্চলে অবস্থিত একটি প্রশস্ত বনভূমি যা বিশ্বের প্রাকৃতিক বিস্ময়াবলীর অন্যতম। পদ্মা, মেঘনা ও ব্রহ্মপুত্র নদীত্রয়ের অববাহিকার বদ্বীপ এলাকায় অবস্থিত এই অপরূপ বনভূমি বাংলাদেশের খুলনা, সাতক্ষীরা, বাগেরহাট, পটুয়াখালি ও বরগুনাজেলা জুড়ে বিস্তৃত। সমুদ্র উপকূলবর্তী নোনা পরিবেশের সবচেয়ে বড় ম্যানগ্রোভ বন হিসেবে সুন্দরবন বিশ্বের সর্ববৃহৎ অখণ্ড বনভূমি। ১০,০০০ বর্গ কিলোমিটার জুড়ে গড়ে ওঠা সুন্দরবনের ৬,০১৭ বর্গ কিলোমিটার রয়েছে বাংলাদেশে। সুন্দরবন ১৯৯৭ খ্রিস্টাব্দে ইউনেস্কো বিশ্ব ঐতিহ্যবাহী স্থান হিসেবে স্বীকৃতি লাভ করে। এর বাংলাদেশ ও ভারতীয় অংশ বস্তুত একই নিরবচ্ছিন্ন ভূমিখণ্ডের সন্নিহিত অংশ হলেও ইউনেস্কোর বিশ্ব ঐতিহ্যের তালিকায় ভিন্ন ভিন্ন নামে সূচিবদ্ধ হয়েছে; যথাক্রমে “সুন্দরবন” ও “সুন্দরবন জাতীয় উদ্যান” নামে। সুন্দরবনকে জালের মত জড়িয়ে রয়েছে সামুদ্রিক স্রোতধারা, কাদা চর এবং ম্যানগ্রোভ বনভূমির লবণাক্ততাসহ ক্ষুদ্রায়তন দ্বীপমালা। মোট বনভূমির ৩১.১ শতাংশ, অর্থাৎ ১,৮৭৪ বর্গকিলোমিটার জুড়ে রয়েছে নদীনালা, খাঁড়ি, বিল মিলিয়ে জলাকীর্ণ অঞ্চল।[৩] বনভূমিটি, স্বনামে বিখ্যাত রয়েল বেঙ্গল টাইগার ছাড়াও নানান ধরণের পাখি, চিত্রা হরিণ, কুমির ও সাপসহ অসংখ্য প্রজাতির প্রাণীর আবাসস্থল হিসেবে পরিচিত। জরিপ মোতাবেক ৫০০ বাঘ ও ৩০,০০০ চিত্রা হরিণ রয়েছে এখন সুন্দরবন এলাকায়। ১৯৯২ সালের ২১শে মে সুন্দরবন রামসার স্থান হিসেবে স্বীকৃতি লাভ করে।"
+        />
+
+</LinearLayout>
+</android.support.constraint.ConstraintLayout>

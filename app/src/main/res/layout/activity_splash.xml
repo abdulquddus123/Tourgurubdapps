@@ -1,0 +1,131 @@
+<?xml version="1.0" encoding="utf-8"?>
+<android.support.constraint.ConstraintLayout
+    xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:orientation="vertical"
+
+    android:layout_height="match_parent"
+    android:padding="0dp"
+    tools:context="areyen.tourgurubdapps.SplashActivity">
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="match_parent"
+        android:orientation="vertical"
+        android:background="@drawable/image"
+        >
+
+    <LinearLayout
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:orientation="vertical">
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="30dp"
+            android:text="TOURGUROBD APPS"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:layout_marginTop="10dp"
+            android:text="Presented"
+            android:textAllCaps="true"
+            android:textStyle="bold"
+            android:textAlignment="center"
+            android:textSize="25sp"
+            />
+        <TextView
+            android:layout_width="match_parent"
+            android:layout_height="wrap_content"
+            android:text="BY"
+            android:layout_marginTop="5dp"
+            android:textAlignment="center"
+            android:textStyle="italic"
+            android:textSize="35sp"
+            />
+
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Md Nur Nabi "
+                android:textStyle="bold"
+                android:layout_marginTop="20dp"
+                android:textAlignment="center"
+                android:textSize="25sp"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ID : 143015006"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Md Majadul Islam  "
+                android:layout_marginTop="10dp"
+                android:textAlignment="center"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ID : 143015015"
+                android:textAlignment="center"
+                android:textStyle="bold"
+                android:textSize="25sp"
+                />
+        </LinearLayout>
+
+        <LinearLayout
+            android:layout_width="match_parent"
+            android:orientation="vertical"
+            android:layout_height="wrap_content">
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="Md Abdur Rahman  "
+                android:textAlignment="center"
+                android:layout_marginTop="10dp"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                />
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="wrap_content"
+                android:text="ID : 143015013"
+                android:textAlignment="center"
+                android:textSize="25sp"
+                android:textStyle="bold"
+                />
+        </LinearLayout>
+
+
+
+
+
+    </LinearLayout>
+    </LinearLayout>
+</android.support.constraint.ConstraintLayout>
